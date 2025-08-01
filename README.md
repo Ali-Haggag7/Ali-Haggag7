@@ -5,7 +5,10 @@
   <a href="https://www.linkedin.com/in/ali-haggag7"><img src="https://img.shields.io/badge/Ali%20Haggag-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/share/1Zf9XHxF7Z/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/3zsdj?igsh=MWhyenVmeWdwZm5scQ=="><img src="https://img.shields.io/badge/@3zsdj-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:ali.haggag2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-ali.haggag2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ali-Haggag7" alt="Visitor Badge" />
 </p>
 
 ---
