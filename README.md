@@ -1,50 +1,75 @@
-<div align="center" width="50">
+<h1 align="center">Hi, I'm Ali Haggag 👋</h1>
+<h3 align="center">Full Stack Web Developer ⚙️ | CS Student 💻 | Passionate About Clean Code & System Design 🧠</h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" /> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" /><br> 
-
-<details>
-<summary><strong>🎧 Busy coding & vibing to:</strong></summary>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=alihaggag&style=flat&color=orange&label=PROFILE+VIEWS)
-[![Telegram](https://img.shields.io/badge/Telegram-AliHaggag-blue?style=flat&logo=telegram)](https://t.me/YourTelegramUsername)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-haggag7"><img src="https://img.shields.io/badge/Ali%20Haggag-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/1Zf9XHxF7Z/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/3zsdj?igsh=MWhyenVmeWdwZm5scQ=="><img src="https://img.shields.io/badge/@3zsdj-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:ali.haggag2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-ali.haggag2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🚀 Tech Stack & Tools
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
+## 🚀 About Me
 
 ```js
-// aboutMe.js
-
-const Ali = {
+const AliHaggag = {
   role: "Full Stack Web Developer",
-  education: "Student at Faculty of Computers & AI - CS Major (soon)",
-  languages: ["JavaScript", "HTML", "CSS", "Python"],
-  backend: ["Node.js", "Express.js", "MongoDB"],
-  frontend: ["React", "Next.js", "TailwindCSS"],
-  tools: ["Git", "VSCode", "Figma", "Linux"],
-  currentlyLearning: ["Advanced React", "Next.js", "System Design"]
+  studentAt: "Faculty of Computers & AI, CS Major (in progress)",
+  languages: ["Arabic", "English"],
+  passion: "Building real-world apps and clean UIs",
 };
+```
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+ <table align="center">
+  <tr>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,jquery" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔧 Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧰 Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    </td>
+  </tr>
+</table>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Haggag7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Haggag7&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
+
+---
+
+## 💡 Interests
+
+- 🌍 Building scalable full stack apps with real-world use cases  
+- 🧩 Creating clean and maintainable codebases  
+- 📚 Learning system architecture, backend patterns, and security  
+- 💬 Always curious to learn & collaborate  
+
+---
+
+## ⚡️ Motto
+
+> **"Build it. Break it. Learn from it. Repeat."**
