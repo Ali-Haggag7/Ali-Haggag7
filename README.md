@@ -1,80 +1,78 @@
-<div align="center">
+<h1 align="center">Hi, I'm Ali Haggag 👋</h1>
+<h3 align="center">Full Stack Web Developer ⚙️ | CS Student 💻 | Passionate About Clean Code & System Design 🧠</h3>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ali+Haggag+%F0%9F%91%8B;Full+Stack+Software+Engineer;MERN+Stack+Specialist;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-haggag7"><img src="https://img.shields.io/badge/Ali%20Haggag-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/1Zf9XHxF7Z/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/3zsdj?igsh=MWhyenVmeWdwZm5scQ=="><img src="https://img.shields.io/badge/@3zsdj-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-  <p align="center">
-    <a href="https://github.com/Ali-Haggag7">
-      <img src="https://komarev.com/ghpvc/?username=Ali-Haggag7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    </a>
-    <a href="https://www.linkedin.com/in/ali-haggag7/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:ali.haggag2005@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ali-Haggag7" alt="Visitor Badge" />
+</p>
 
-<br />
+---
 
-### 🚀 About Me
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
-```javascript
-const aliHaggag = {
-    role: "Full Stack Software Engineer",
-    education: "FCAI - South Valley National University (CS Major)",
-    codeStyle: "Clean, Scalable & Modern",
-    currentFocus: ["WebRTC Streaming", "AI Integration", "PWA Architecture"],
-    technologies: {
-        frontEnd: ["React.js", "Tailwind CSS", "Redux Toolkit", "Framer Motion"],
-        backEnd: ["Node.js", "Express", "Socket.io", "MongoDB"],
-        advanced: ["WebRTC", "Google Gemini AI", "Service Workers"]
-    },
-    challenge: "Turning complex problems into elegant solutions."
+## 🚀 About Me
+
+```js
+const AliHaggag = {
+  role: "Full Stack Web Developer",
+  studentAt: "Faculty of Computers & AI, CS Major (in progress)",
+  languages: ["Arabic", "English"],
+  passion: "Building real-world apps and clean UIs",
 };
 ```
 
-<br />
+---
 
-<div align="center">
-<h3>🛠️ Tech Stack & Arsenal</h3>
+## 🧰 Tech Toolbox
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Redux-593D88%3Fstyle%3Dfor-the-badge%26logo%3Dredux%26logoColor%3Dwhite" alt="Redux" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS" />
+<p align="center">
+ <table align="center">
+  <tr>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,jquery" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔧 Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧰 Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    </td>
+  </tr>
+</table>
+</p>
 
-<br />
+---
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-43853D%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-404D59%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" alt="Firebase" />
+## 📈 GitHub Stats
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Haggag7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Haggag7&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Socket.io-010101%3Fstyle%3Dfor-the-badge%26logo%3Dsocket.io%26logoColor%3Dwhite" alt="Socket" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/WebRTC-333333%3Fstyle%3Dfor-the-badge%26logo%3Dwebrtc%26logoColor%3Dwhite" alt="WebRTC" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PWA-5A0FC8%3Fstyle%3Dfor-the-badge%26logo%3Dpwa%26logoColor%3Dwhite" alt="PWA" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
-</div>
+---
 
-<br />
+## 💡 Interests
 
-<div align="center">
-<h3>📊 GitHub Analytics</h3>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAli-Haggag7%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAli-Haggag7%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Languages" />
-<br />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DAli-Haggag7%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" alt="Streak" />
-</div>
+- 🌍 Building scalable full stack apps with real-world use cases  
+- 🧩 Creating clean and maintainable codebases  
+- 📚 Learning system architecture, backend patterns, and security  
+- 💬 Always curious to learn & collaborate  
 
-<br />
+---
 
-<div align="center">
-<i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
-</div>
+## ⚡️ Motto
+
+> **"Build it. Break it. Learn from it. Repeat."**
