@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Ali%20Haggag&fontSize=80&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Engineer%20(MERN)%20%7C%20System%20Design%20Enthusiast&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn" alt="Ali Haggag Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Ali%20Haggag&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Engineer%20(MERN)%20%7C%20System%20Design%20Enthusiast&descAlign=50&descAlignY=60&descSize=20&descColor=ffffff&animation=fadeIn" alt="Ali Haggag Header" width="100%" />
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-haggag7">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ali.haggag2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/Ali-Haggag7">
-    <img src="https://img.shields.io/badge/Portfolio-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ali-Haggag7&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Ali-Haggag7&label=Profile%20Views&color=0072ff&style=flat" alt="visitor badge"/>
 </p>
 
 ---
