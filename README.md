@@ -44,10 +44,10 @@ Always exploring new tech: Currently diving deep into **Microservices** 🌱
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&perline=6" /> |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase&perline=5" /> |
+| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=react,redux,tailwind,framer,html,css&perline=6" /> |
+| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&perline=5" /> |
 | **Real-time & AI** | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white) |
-| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,vercel&perline=6" /> |
+| **CS & Tools** | <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,linux&perline=5" /> |
 
 </div>
 
