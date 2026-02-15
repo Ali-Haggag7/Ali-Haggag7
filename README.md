@@ -1,101 +1,66 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Ali%20Haggag&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Engineer%20(MERN)%20%7C%20System%20Design%20Enthusiast&descAlign=50&descAlignY=60&descSize=20&descColor=ffffff&animation=fadeIn" alt="Ali Haggag Header" width="100%" />
-</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ali-haggag7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="./banner.png" alt="Ali Haggag Banner" width="100%" />
+
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+MERN+Stack+Specialist;Architecting+Scalable+Real-time+Systems;Socket.io+%26+WebRTC+Expert;Building+Offline-first+PWAs" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <a href="https://www.linkedin.com/in/ali-haggag7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ali.haggag2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Ali-Haggag7">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ali-Haggag7&label=Profile%20Views&color=0072ff&style=flat" alt="visitor badge"/>
-</p>
-
----
-
-## 👨‍💻 The Developer Code
-
-```javascript
-const AliHaggag = {
-    role: "Full Stack Engineer (MERN)",
-    education: "CS Major @ South Valley University",
-    current_focus: "Scalable Systems & AI Integration",
-    
-    technical_arsenal: {
-        frontend: ["React.js", "Redux Toolkit", "Tailwind CSS", "Framer Motion"],
-        backend: ["Node.js", "Express", "MongoDB", "Socket.io"],
-        advanced: ["WebRTC (P2P)", "Google Gemini AI", "PWA (Offline-first)"]
-    },
-    
-    motto: "Building complex systems with clean code."
-};
-```
-
-<br>
-
-> **A Next-Gen Social Super App** bridging Real-time Communication, AI, and Performance.
-
-<div align="center">
-  <img src="https://placehold.co/800x400/1a1a1a/FFF?text=Flurry+v2.0+Preview+(Add+Your+GIF+Here)" alt="Flurry Preview" width="100%" style="border-radius: 10px;" />
 </div>
 
-<br>
+<br/>
 
-| 🚀 Core Features | 🛠️ Engineering Tech |
+### 👨‍💻 About Me
+
+I'm **Ali Haggag**, a Software Engineer & CS Student passionate about building **complex, scalable systems**. I specialize in the **MERN Stack** with a deep focus on **Real-time Communication** (Socket.io & WebRTC) and **AI Integration**.
+
+* 🔭 I’m currently building **Flurry v2.0 (Social Super App)**.
+* ⚡ Core Strength: **System Design, Performance Optimization, and Clean Architecture**.
+* 🌱 Always exploring new tech: Currently diving deep into **Microservices**.
+
+<br/>
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Category** | **Technologies** |
 | :--- | :--- |
-| **🤖 AI Integration**<br>Smart group summaries & voting using **Google Gemini**. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **⚡ Real-time IO**<br>Instant messaging & live typing indicators via **Socket.io**. | ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
-| **📹 P2P Calls**<br>High-quality video/audio calls using **WebRTC** architecture. | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) |
-| **📱 PWA & Offline**<br>Works offline with **Service Workers**, Sync & Notifications. | ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-
----
-
-## 🛠️ Technical Stack & Tools
-
-<div align="center">
-
-### **Frontend & UI**
-<img src="https://skillicons.dev/icons?i=react,redux,html,css,js,tailwind,bootstrap,framer,vite" />
-
-### **Backend & Database**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" />
-
-### **DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify" />
+| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=react,redux,tailwind,framer,vite,html,css" /> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase" /> |
+| **Real-time & AI** | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) |
+| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,vercel" /> |
 
 </div>
 
----
+<br/>
 
-## 📂 Other Notable Projects
-
-| Project | Description | Key Tech |
-| :--- | :--- | :--- |
-| **🛍️ E-Commerce Platform** | Full-featured shopping platform with cart logic, order tracking, and admin dashboard. | `MERN` `Redux` `Stripe` |
-| **📝 Blog Space** | Content platform with full CRUD, profile management, likes, and nested comments. | `React` `Node.js` `Cloudinary` |
-
----
-
-## 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Haggag7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haggag7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Haggag7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="Ali's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haggag7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Ali's Languages" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Haggag7&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Haggag7&theme=tokyonight&hide_border=true&background=0d1117" alt="Ali's Streak" />
 </div>
 
----
+<br/>
 
 <div align="center">
-  <h3>🤝 Let's Build Something Amazing!</h3>
-  <p>Available for Full-time opportunities & Freelance projects.</p>
+  <p>🚀 <i>"Building complex systems with clean code."</i></p>
 </div>
