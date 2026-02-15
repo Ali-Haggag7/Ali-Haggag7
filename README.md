@@ -57,12 +57,11 @@ Always exploring new tech: Currently diving deep into **Microservices** 🌱
   
 ### 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Haggag7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Ali's Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Ali-Haggag7&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Ali's Stats" />
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="10" height="0" />
+  &nbsp; &nbsp;
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haggag7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Ali's Top Langs" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haggag7&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Ali's Top Langs" />
 </div>
 
 <br/>
