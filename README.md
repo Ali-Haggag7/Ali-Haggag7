@@ -28,7 +28,7 @@ I'm **Ali Haggag**, a Software Engineer & CS Student passionate about building *
 
 <br/>
 
-Currently building **[Flurry v2.0](https://github.com/Ali-Haggag7/Flurry-v2.0)** (Social Super App) 🔭
+Currently building **[Flurry v2.0](https://github.com/Ali-Haggag7/Flurry-app)** (Social Super App) 🔭
 <br/>
 Core Strength: **System Design, Performance Optimization, and Clean Architecture** ⚡
 <br/>
@@ -44,10 +44,10 @@ Always exploring new tech: Currently diving deep into **Microservices** 🌱
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=react,redux,tailwind,framer,vite,html,css" /> |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase" /> |
-| **Real-time & AI** | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) |
-| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,vercel" /> |
+| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&perline=6" /> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase&perline=5" /> |
+| **Real-time & AI** | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white) |
+| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,vercel&perline=6" /> |
 
 </div>
 
