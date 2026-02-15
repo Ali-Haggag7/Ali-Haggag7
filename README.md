@@ -53,12 +53,20 @@ Always exploring new tech: Currently diving deep into **Microservices** 🌱
 
 <br/>
 
+<div align="center">
+  
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Haggag7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="Ali's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haggag7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Ali's Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Haggag7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Ali's Stats" />
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="10" height="0" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haggag7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Ali's Top Langs" />
+
 </div>
+
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Haggag7&theme=tokyonight&hide_border=true&background=0d1117" alt="Ali's Streak" />
 </div>
