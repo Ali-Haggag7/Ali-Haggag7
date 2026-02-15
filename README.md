@@ -38,9 +38,9 @@ Always exploring new tech: Currently diving deep into **Microservices** 🌱
 
 <br/>
 
-### 🛠️ Technical Arsenal
-
 <div align="center">
+  
+### 🛠️ Technical Arsenal
 
 | **Category** | **Technologies** |
 | :--- | :--- |
