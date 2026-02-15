@@ -20,13 +20,21 @@
 
 <br/>
 
+<div align="center">
+
 ### 👨‍💻 About Me
 
 I'm **Ali Haggag**, a Software Engineer & CS Student passionate about building **complex, scalable systems**. I specialize in the **MERN Stack** with a deep focus on **Real-time Communication** (Socket.io & WebRTC) and **AI Integration**.
 
-* 🔭 I’m currently building **Flurry v2.0 (Social Super App)**.
-* ⚡ Core Strength: **System Design, Performance Optimization, and Clean Architecture**.
-* 🌱 Always exploring new tech: Currently diving deep into **Microservices**.
+<br/>
+
+Currently building **[Flurry v2.0](https://github.com/Ali-Haggag7/Flurry-v2.0)** (Social Super App) 🔭
+<br/>
+Core Strength: **System Design, Performance Optimization, and Clean Architecture** ⚡
+<br/>
+Always exploring new tech: Currently diving deep into **Microservices** 🌱
+
+</div>
 
 <br/>
 
