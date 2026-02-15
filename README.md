@@ -47,7 +47,7 @@ Always exploring new tech: Currently diving deep into **Microservices** 🌱
 | **Frontend & Next.js** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,redux,tailwind,bootstrap&perline=6" /> |
 | **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&perline=5" /> |
 | **Real-time & AI** | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white) |
-| **CS & Tools** | <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,vercel,sevella&perline=5" /> |
+| **CS & Tools** | <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,vercel,sevalla&perline=5" /> |
 
 </div>
 
