@@ -69,14 +69,6 @@ Always exploring new tech: Currently diving deep into **Microservices** 🌱
 </div>
 
 <br/>
-
-<details>
-  <summary>✨ More Awesome Stats & Trophies</summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ali-Haggag7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Ali's Trophies" />
-  </div>
-</details>
   
 <hr></hr>
 </div>
