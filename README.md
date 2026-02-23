@@ -58,10 +58,8 @@ Always exploring new tech: Currently diving deep into **Microservices** 🌱
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Haggag7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haggag7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" height="150" alt="Top Languages" />
-</div>
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ali-Haggag7&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Ali's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ali-Haggag7&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Ali's Top Languages" />
 </div>
 
 <br/>
@@ -71,6 +69,17 @@ Always exploring new tech: Currently diving deep into **Microservices** 🌱
 </div>
 
 <br/>
+
+<details>
+  <summary>✨ More Awesome Stats & Trophies</summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ali-Haggag7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Ali's Trophies" />
+  </div>
+</details>
+  
+<hr></hr>
+</div>
 
 <div align="center">
   <p>🚀 <i>"Building complex systems with clean code."</i></p>
