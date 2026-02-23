@@ -10,11 +10,7 @@
 
   <br/>
 
-  <p>
-    <a href="https://www.linkedin.com/in/ali-haggag7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:ali.haggag2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://github.com/Ali-Haggag7"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  </p>
+<p align="center"><a href="https://www.linkedin.com/in/ali-haggag7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:ali.haggag2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://ali-haggag-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a><a href="https://drive.google.com/file/d/15ZRv2NxIm3yN6bLrPAlKxm3a6-QOF3e-/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=google-drive&logoColor=white"/></a></p>
 
 </div>
 
