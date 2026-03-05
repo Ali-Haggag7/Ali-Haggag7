@@ -61,7 +61,8 @@ Always exploring new tech: Currently diving deep into **Microservices** 🌱
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Haggag7&theme=tokyonight&hide_border=true&background=0d1117" alt="Ali's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Haggag7&theme=tokyonight&hide_border=true&background=0d1117" height="150" alt="Ali's Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=AliHaggag7&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Ali's Coding Time" />
 </div>
 
 <br/>
