@@ -59,7 +59,7 @@ I'm **Ali Haggag**, a Software Engineer & CS Student passionate about building *
 </div>
 <br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ali-Haggag7&theme=tokyonight&hide_border=true&background=0d1117&fire=FF6B00&ring=FF6B00&currStreakLabel=FF6B00&sideLabels=00E5FF&dates=8B949E" height="150" alt="Ali's Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ali-Haggag7&theme=tokyonight&hide_border=true&background=0d1117&fire=00E5FF&ring=00E5FF&currStreakLabel=00E5FF&currStreakNum=00E5FF&sideLabels=FF6B00&sideNums=FF6B00&dates=8B949E" height="150" alt="Ali's Streak" />
   <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=AliHaggag7&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Ali's Coding Time" />
 </div>
 <br/>
