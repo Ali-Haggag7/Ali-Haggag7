@@ -36,7 +36,7 @@ I'm **Ali Haggag**, a Software Engineer & CS Student passionate about building *
 | **Category** | **Technologies** |
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,bootstrap,framermotion&perline=8" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,postgres,redis,graphql&perline=8" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,postgres&perline=8" /> |
 | **ORM & API Layer** | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
 | **Real-time & AI** | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) |
 | **Auth & Security** | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white) ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white) |
