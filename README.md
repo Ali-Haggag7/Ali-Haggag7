@@ -52,68 +52,16 @@ I'm **Ali Haggag**, a Software Engineer & CS Student passionate about building *
 <br/>
 
 <div align="center">
+  
+### 🏆 GitHub Trophies
 
-### 🚀 Featured Projects
+<img src="https://github-profile-trophy-ahmed.vercel.app/?username=Ali-Haggag7&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌀 Flurry — Social Super App</h3>
-      <div align="center">
-        <a href="https://flurry-app.vercel.app" target="_blank">
-          <img src="flurry.png" width="100%" alt="Flurry"/>
-        </a>
-        <br/><br/>
-        <p>Full Social Super App with P2P video calls, AI-powered group summaries (Gemini), PWA & offline-first support</p>
-        <br/>
-        <a href="https://github.com/Ali-Haggag7/Flurry-Super-App"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a><a href="https://flurry-app.vercel.app"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏟️ CS Arena</h3>
-      <div align="center">
-        <a href="https://csarena.tech" target="_blank">
-          <img src="cs-arena-home-page.png" width="100%" alt="CS Arena"/>
-        </a>
-        <br/><br/>
-        <p>Platform for CS devs to showcase projects & find collaborators. Built with Next.js 16 + TypeScript + Sanity CMS</p>
-        <br/>
-        <a href="https://github.com/Ali-Haggag7/CS-Arena"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a><a href="https://csarena.tech"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📝 Blog Pro Platform</h3>
-      <div align="center">
-        <a href="https://blog-pro-platform.vercel.app" target="_blank">
-          <img src="blog-home-light-mode.png" width="100%" alt="Blog Pro"/>
-        </a>
-        <br/><br/>
-        <p>Full-stack blogging platform with Admin Dashboard, Dark Mode, Categories & rich text editor</p>
-        <br/>
-        <a href="https://github.com/Ali-Haggag7/Blog-Pro-Platform"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a><a href="https://blog-pro-platform.vercel.app"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 Portfolio</h3>
-      <div align="center">
-        <a href="https://alihaggag.me" target="_blank">
-          <img src="main-preview.png" width="100%" alt="Portfolio"/>
-        </a>
-        <br/><br/>
-        <p>Personal portfolio showcasing projects, skills & experience. Built with Next.js + Framer Motion</p>
-        <br/>
-        <a href="https://github.com/Ali-Haggag7/Ali-Haggag-Portfolio"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a><a href="https://alihaggag.me"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      </div>
-    </td>
-  </tr>
-</table>
+<br/>
 
 <div align="center">
-
+  
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Ali-Haggag7&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Ali's GitHub Stats" />
