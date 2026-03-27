@@ -51,6 +51,8 @@ I'm **Ali Haggag**, a Software Engineer & CS Student passionate about building *
 </div>
 <br/>
 
+---
+
 <div align="center">
   
 ### 🏆 GitHub Trophies
