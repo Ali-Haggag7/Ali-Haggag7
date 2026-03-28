@@ -57,7 +57,7 @@ I'm **Ali Haggag**, a Software Engineer & CS Student passionate about building *
   
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy-ahmed.vercel.app/?username=Ali-Haggag7&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-ahmed.vercel.app/?username=Ali-Haggag7&theme=onestar&no-bg=true&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 
 </div>
 <br/>
