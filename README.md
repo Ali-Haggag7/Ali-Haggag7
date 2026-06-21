@@ -45,7 +45,7 @@ I'm **Ali Haggag**, a Software Engineer & CS Student passionate about building *
 | **Monitoring** | ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white) ![AzureMonitor](https://img.shields.io/badge/Azure_Monitor-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) |
 | **Email Services** | ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=mail&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-0F9DCE?style=flat-square&logo=gmail&logoColor=white) ![Mailtrap](https://img.shields.io/badge/Mailtrap-16A85A?style=flat-square&logo=mail&logoColor=white) |
 | **Design & UI Libs** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![MagicUI](https://img.shields.io/badge/Magic%20UI-8B5CF6?style=flat-square&logo=sparkles&logoColor=white) ![dnd-kit](https://img.shields.io/badge/dnd--kit-20232A?style=flat-square&logo=react&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white) ![Lucide](https://img.shields.io/badge/Lucide-F472B6?style=flat-square&logo=lucide&logoColor=white) |
-| **CS & Tools** | <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,postman&perline=8" /> |
+| **CS & Tools** | <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,postman,gitlab&perline=8" /> |
 
 
 </div>
