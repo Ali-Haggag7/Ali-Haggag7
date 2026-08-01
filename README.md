@@ -19,19 +19,29 @@ I'm **Ali Haggag**, a Software Engineer & CS Student focused on **System Design,
 
 #### 🌟 Featured Engineering Builds
 
-*   🤖 **[Logic Arena](https://github.com/Ali-Haggag7/logic-arena) — Competitive Robot Battle Simulator**
-    *   *Compiler & Sandbox:* Engineered **AliScript v2.2** (Lexer → AST parser) running inside a secure server-side sandbox with strict execution limits.
-    *   *Real-time Sync:* Built a 20 TPS physics engine with client-side state interpolation and delta compression (<50ms latency).
-    *   *Tech Stack:* Next.js 16, NestJS 11, React Three Fiber (Three.js), Socket.io, Redis, PostgreSQL, Prisma, Docker.
+*   🤖 **[Logic Arena](https://github.com/Ali-Haggag7/logic-arena) — Competitive Robot Battle Simulator** `v3.6.5`
+    *   *Compiler & Sandbox:* Engineered **AliScript v3** (Lexer → AST → sandboxed evaluator, no `eval()`) with a deterministic 2,000-ops/tick TLE quota — fair execution limits regardless of hardware.
+    *   *Real-time Sync:* 20 TPS server physics engine with client-side `lerp` interpolation to 60 FPS; delta diffing cuts WebSocket payload size by ~80%.
+    *   *Tech Stack:* Next.js 16, NestJS 11, React Three Fiber (Three.js), Socket.io, Redis, PostgreSQL, Prisma, Docker + Nginx, DigitalOcean.
 
-*   🚀 **[Flurry Super App](https://github.com/Ali-Haggag7/Flurry-Super-App) — Real-time Social Super App**
-    *   *Communication:* Established WebRTC P2P media connections with custom Socket.io signaling servers (<50ms call latency).
-    *   *UX & AI:* Implemented an offline-first PWA architecture with Workbox Service Workers and integrated Gemini AI for group summaries.
+*   🚀 **[Flurry Super App](https://github.com/Ali-Haggag7/Flurry-Super-App) — Real-time Social Super App** `v2.0`
+    *   *Communication:* WebRTC P2P audio/video via a custom Socket.io signaling server (<50ms latency).
+    *   *Resilience:* Offline-first PWA — IndexedDB action queue synced through Inngest durable functions and a Workbox service worker.
     *   *Tech Stack:* WebRTC, Socket.io, Gemini AI, PWA, React, MongoDB, i18next.
 
 *   🏗️ **[CS Arena Platform](https://github.com/Ali-Haggag7/CS-Arena) — Developer Ecosystem**
-    *   *State Engine:* Resolved cascading UI state filter race conditions using Next.js 16 Server Components and React's concurrent rendering features.
+    *   *State Engine:* Resolved cascading UI filter race conditions using `useTransition` and a URL-first state engine on Next.js 16 Server Components.
     *   *Tech Stack:* Next.js 16, Sanity CMS, NextAuth, Sentry, Resend, Framer Motion.
+
+---
+
+#### 🩹 Notable Engineering Incidents
+
+*A few real production issues I've diagnosed and fixed — documented in full on my [portfolio](https://alihaggag.me).*
+
+*   **The Ghost Match Massacre** *(Logic Arena, WebSocket/NestJS)* — Disconnected players' matches kept running server-side, pinning CPU at 100%. Fixed by tying match lifecycle to live client count.
+*   **Operator Precedence Disaster** *(AliScript compiler)* — `2 + 3 * 4` evaluated to `20`. The expression parser had no precedence tower. Fixed by splitting addition/multiplication into separate parse levels.
+*   **Deterministic TLE Quota** *(Sandboxing)* — Wall-clock execution limits made the same script pass on one machine and fail on another. Replaced with a platform-agnostic ops-per-tick counter.
 
 ---
 
@@ -51,18 +61,17 @@ I'm **Ali Haggag**, a Software Engineer & CS Student focused on **System Design,
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,threejs,redux,tailwind,bootstrap&perline=8" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,postgres,nestjs&perline=8" /> |
-| **ORM & API Layer** | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) |
-| **Real-time & AI** | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) |
-| **Auth & Security** | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=google&logoColor=white) ![Passport.js](https://img.shields.io/badge/Passport.js-00D26A?style=flat-square&logo=passport&logoColor=white) ![VM2 Sandbox](https://img.shields.io/badge/VM2_Sandbox-111111?style=flat-square&logo=nodedotjs&logoColor=white) ![Helmet](https://img.shields.io/badge/Helmet-4A4A4A?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **CMS, Media & State** | ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white) ![ReactQuery](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) |
-| **Deploy & DevOps** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Sevalla](https://img.shields.io/badge/Sevalla-FF6B35?style=flat-square&logo=cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![pnpm Workspaces](https://img.shields.io/badge/pnpm_Workspaces-F69220?style=flat-square&logo=pnpm&logoColor=white) |
-| **Monitoring** | ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white) ![AzureMonitor](https://img.shields.io/badge/Azure_Monitor-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) |
-| **Email Services** | ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=mail&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-0F9DCE?style=flat-square&logo=gmail&logoColor=white) ![Mailtrap](https://img.shields.io/badge/Mailtrap-16A85A?style=flat-square&logo=mail&logoColor=white) |
-| **Design & UI Libs** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![MagicUI](https://img.shields.io/badge/Magic%20UI-8B5CF6?style=sparkles&logoColor=white) ![dnd-kit](https://img.shields.io/badge/dnd--kit-20232A?style=flat-square&logo=react&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white) ![Lucide](https://img.shields.io/badge/Lucide-F472B6?style=flat-square&logo=lucide&logoColor=white) |
-| **CS & Tools** | <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,postman,gitlab,bash&perline=8" /> |
-
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,threejs,tailwind&perline=8" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase,supabase,graphql&perline=8" /> |
+| **Compiler & Systems** | ![AST Design](https://img.shields.io/badge/AST_Design-2D3748?style=flat-square) ![Deterministic Sandboxing](https://img.shields.io/badge/Deterministic_Sandboxing-2D3748?style=flat-square) ![A* Pathfinding](https://img.shields.io/badge/A*_Pathfinding-2D3748?style=flat-square) <img src="https://skillicons.dev/icons?i=cpp&perline=1"/> |
+| **Data & ORM Layer** | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) |
+| **Real-time & AI** | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Inngest](https://img.shields.io/badge/Inngest-000000?style=flat-square) |
+| **Auth & Security** | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4285F4?style=flat-square&logo=google&logoColor=white) ![Helmet](https://img.shields.io/badge/Helmet-4A4A4A?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **DevOps & Infra** | <img src="https://skillicons.dev/icons?i=docker,nginx,vercel,cloudflare,azure&perline=5" /> ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) ![Sevalla](https://img.shields.io/badge/Sevalla-FF6B35?style=flat-square) ![pnpm Workspaces](https://img.shields.io/badge/pnpm_Workspaces-F69220?style=flat-square&logo=pnpm&logoColor=white) |
+| **CMS & State** | ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white) |
+| **Monitoring** | ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white) ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) |
+| **Design & UI** | <img src="https://skillicons.dev/icons?i=figma&perline=1" /> ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
+| **CS & Tools** | <img src="https://skillicons.dev/icons?i=c,git,github,gitlab,vscode,postman,linux,bash,npm,pnpm&perline=10" /> |
 
 </div>
 <br/>
@@ -70,7 +79,7 @@ I'm **Ali Haggag**, a Software Engineer & CS Student focused on **System Design,
 ---
 
 <div align="center">
-  
+
 ### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy-ahmed.vercel.app/?username=Ali-Haggag7&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -79,7 +88,7 @@ I'm **Ali Haggag**, a Software Engineer & CS Student focused on **System Design,
 <br/>
 
 <div align="center">
-  
+
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Ali-Haggag7&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Ali's GitHub Stats" />
@@ -91,9 +100,8 @@ I'm **Ali Haggag**, a Software Engineer & CS Student focused on **System Design,
 <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=AliHaggag7&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Ali's Coding Time" />
 
 <br/>
-
 <hr/>
 
-<p>🚀 <i>"Building complex systems with clean code."</i></p>
+<p>🚀 <i>Building deterministic systems where performance, correctness, and maintainability come first.</i></p>
 
 </div>
